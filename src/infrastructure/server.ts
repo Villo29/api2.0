@@ -10,11 +10,12 @@ import cors from 'cors';
 // Cargar variables de entorno
 dotenv.config();
 
-const app: Application = express(); // Asegúrate de que `app` es de tipo `Application`
+const app: Application = express(); 
+app.use(cors());
 const port = process.env.PORT || 3000;
 const mongoUri = process.env.MONGO_URI;
 const dbName = process.env.DB_NAME;
-app.use(cors());
+
 
 if (!mongoUri || !dbName) {
   console.error('Missing MongoDB credentials');
