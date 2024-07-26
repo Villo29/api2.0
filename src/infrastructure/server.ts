@@ -35,7 +35,7 @@ client.connect().then(() => {
   app.post('/students', (req, res) => studentController.add(req, res));
 
   app.listen(port, () => {
-    console.log(`API running at http://localhost:${port}`);
+    console.log(`API running at ${port}`);
   });
 }).catch(error => {
   console.error('Failed to connect to MongoDB', error);
