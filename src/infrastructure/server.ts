@@ -6,7 +6,7 @@ import { StudentController } from './controllers/StudentController';
 import cors from 'cors';
 // ...
 
-app.use(cors());
+
 
 // Cargar variables de entorno
 dotenv.config();
@@ -15,6 +15,7 @@ const app: Application = express(); // Asegúrate de que `app` es de tipo `Appli
 const port = process.env.PORT || 3000;
 const mongoUri = process.env.MONGO_URI;
 const dbName = process.env.DB_NAME;
+app.use(cors());
 
 if (!mongoUri || !dbName) {
   console.error('Missing MongoDB credentials');
