@@ -8,7 +8,7 @@ import cors from 'cors';
 dotenv.config();
 
 const app: Application = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 2929;
 const mongoUri = process.env.MONGO_URI;
 const dbName = process.env.DB_NAME;
 
