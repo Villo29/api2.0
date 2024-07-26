@@ -13,11 +13,11 @@ export class MongoStudentRepository implements StudentRepository {
     const students = await this.collection.find().toArray();
     return students.map((student) => {
       const { _id, ...rest } = student;
-      return { id: _id.toString(), name: rest.name, email: rest.email, ...rest } as Student;
+      return { id: _id.toString(), id_obj: _id, name: rest.name, email: rest.email, ...rest } as Student;
     });
   }
 
   async add(student: Student): Promise<void> {
-    await this.collection.insertOne({ ...student, _id: new ObjectId() });
+    await this.collection.insertOne(student);
   }
 }

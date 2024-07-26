@@ -3,6 +3,10 @@ import { MongoClient } from 'mongodb';
 import dotenv from 'dotenv';
 import { MongoStudentRepository } from './repositories/MongoStudentRepository';
 import { StudentController } from './controllers/StudentController';
+import cors from 'cors';
+// ...
+
+app.use(cors());
 
 // Cargar variables de entorno
 dotenv.config();

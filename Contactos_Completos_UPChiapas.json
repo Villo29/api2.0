@@ -1,0 +1,578 @@
+[
+    {
+        "name": "Alan David Balbuena Zavala",
+        "email": "221229@ids.upchiapas.edu.mx",
+        "matricula": "221229",
+        "Grado": "8B",
+        "C1": 87,
+        "C2": 61,
+        "C3": 76
+    },
+    {
+        "name": "Alan Emmanuel Diaz Coutiño",
+        "email": "221191@ids.upchiapas.edu.mx",
+        "matricula": "221191",
+        "Grado": "8B",
+        "C1": 33,
+        "C2": 75,
+        "C3": 71
+    },
+    {
+        "name": "Andres Guizar Gomez",
+        "email": "213360@ids.upchiapas.edu.mx",
+        "matricula": "213360",
+        "Grado": "8B",
+        "C1": 77,
+        "C2": 76,
+        "C3": 50
+    },
+    {
+        "name": "Ángel Manuel Bautista Vázquez",
+        "email": "213347@ids.upchiapas.edu.mx",
+        "matricula": "213347",
+        "Grado": "8B",
+        "C1": 51,
+        "C2": 24,
+        "C3": 82
+    },
+    {
+        "name": "Antonio Francisco Martinez Simuta",
+        "email": "203405@ids.upchiapas.edu.mx",
+        "matricula": "203405",
+        "Grado": "8B",
+        "C1": 70,
+        "C2": 62,
+        "C3": 43
+    },
+    {
+        "name": "Carlos Eduardo Chanona Aquino",
+        "email": "221233@ids.upchiapas.edu.mx",
+        "matricula": "221233",
+        "Grado": "8B",
+        "C1": 29,
+        "C2": 29,
+        "C3": 44
+    },
+    {
+        "name": "Carlos Eduardo Gumeta Navarro",
+        "email": "221199@ids.upchiapas.edu.mx",
+        "matricula": "221199",
+        "Grado": "8B",
+        "C1": 13,
+        "C2": 62,
+        "C3": 54
+    },
+    {
+        "name": "Carlos Enrique Barriga Aguilar",
+        "email": "221188@ids.upchiapas.edu.mx",
+        "matricula": "221188",
+        "Grado": "8B",
+        "C1": 19,
+        "C2": 24,
+        "C3": 42
+    },
+    {
+        "name": "Carlos Esteban Rivera Perez",
+        "email": "213530@ids.upchiapas.edu.mx",
+        "matricula": "213530",
+        "Grado": "8B",
+        "C1": 100,
+        "C2": 47,
+        "C3": 34
+    },
+    {
+        "name": "Carlos Ivan Cruz Zarmiento",
+        "email": "221236@ids.upchiapas.edu.mx",
+        "matricula": "221236",
+        "Grado": "8B",
+        "C1": 75,
+        "C2": 80,
+        "C3": 88
+    },
+    {
+        "name": "Carlos Raúl Lievano Ovando",
+        "email": "221202@ids.upchiapas.edu.mx",
+        "matricula": "221202",
+        "Grado": "8B",
+        "C1": 89,
+        "C2": 47,
+        "C3": 46
+    },
+    {
+        "name": "Cesar Gómez Aguilera",
+        "email": "213507@ids.upchiapas.edu.mx",
+        "matricula": "213507",
+        "Grado": "8B",
+        "C1": 54,
+        "C2": 94,
+        "C3": 51
+    },
+    {
+        "name": "Cristian Gerardo Vázquez Ramos",
+        "email": "221267@ids.upchiapas.edu.mx",
+        "matricula": "221267",
+        "Grado": "8B",
+        "C1": 37,
+        "C2": 94,
+        "C3": 65
+    },
+    {
+        "name": "Cristian Ovando Gómez",
+        "email": "221256@ids.upchiapas.edu.mx",
+        "matricula": "221256",
+        "Grado": "8B",
+        "C1": 51,
+        "C2": 19,
+        "C3": 13
+    },
+    {
+        "name": "Darinel Escobar",
+        "email": "221192@ids.upchiapas.edu.mx",
+        "matricula": "221192",
+        "Grado": "8B",
+        "C1": 78,
+        "C2": 14,
+        "C3": 75
+    },
+    {
+        "name": "Darío Antonio Gutiérrez Álvarez",
+        "email": "221245@ids.upchiapas.edu.mx",
+        "matricula": "221245",
+        "Grado": "8B",
+        "C1": 87,
+        "C2": 93,
+        "C3": 31
+    },
+    {
+        "name": "David Antonio Gómez González",
+        "email": "221197@ids.upchiapas.edu.mx",
+        "matricula": "221197",
+        "Grado": "8B",
+        "C1": 13,
+        "C2": 63,
+        "C3": 50
+    },
+    {
+        "name": "Diego Antonio Ortiz Cruz",
+        "email": "221277@ids.upchiapas.edu.mx",
+        "matricula": "221277",
+        "Grado": "8B",
+        "C1": 66,
+        "C2": 21,
+        "C3": 63
+    },
+    {
+        "name": "Diego Carmona Bernal",
+        "email": "213498@ids.upchiapas.edu.mx",
+        "matricula": "213498",
+        "Grado": "8B",
+        "C1": 62,
+        "C2": 89,
+        "C3": 76
+    },
+    {
+        "name": "Edrei Alvarez Hernandez",
+        "email": "203140@ids.upchiapas.edu.mx",
+        "matricula": "203140",
+        "Grado": "8B",
+        "C1": 44,
+        "C2": 23,
+        "C3": 16
+    },
+    {
+        "name": "Esmirna Jacqueline PEREZ SUCHIAPA",
+        "email": "eperez@ids.upchiapas.edu.mx",
+        "matricula": "",
+        "Grado": "8B",
+        "C1": 74,
+        "C2": 50,
+        "C3": 29
+    },
+    {
+        "name": "Francisco De Jesús Escobar Gutiérrez",
+        "email": "221193@ids.upchiapas.edu.mx",
+        "matricula": "221193",
+        "Grado": "8B",
+        "C1": 62,
+        "C2": 47,
+        "C3": 37
+    },
+    {
+        "name": "Francisco Emmanuel Estrada Rodríguez",
+        "email": "213671@ids.upchiapas.edu.mx",
+        "matricula": "213671",
+        "Grado": "8B",
+        "C1": 17,
+        "C2": 11,
+        "C3": 78
+    },
+    {
+        "name": "Gerardo Jafet Toledo Cañaveral",
+        "email": "211228@ids.upchiapas.edu.mx",
+        "matricula": "211228",
+        "Grado": "8B",
+        "C1": 40,
+        "C2": 35,
+        "C3": 85
+    },
+    {
+        "name": "Héctor Uriel Aguilar Pérez",
+        "email": "203452@ids.upchiapas.edu.mx",
+        "matricula": "203452",
+        "Grado": "8B",
+        "C1": 34,
+        "C2": 69,
+        "C3": 13
+    },
+    {
+        "name": "Hiram Méndez",
+        "email": "213456@ids.upchiapas.edu.mx",
+        "matricula": "213456",
+        "Grado": "8B",
+        "C1": 44,
+        "C2": 26,
+        "C3": 74
+    },
+    {
+        "name": "Isaura Valeria Plata Rojas",
+        "email": "221216@ids.upchiapas.edu.mx",
+        "matricula": "221216",
+        "Grado": "8B",
+        "C1": 15,
+        "C2": 72,
+        "C3": 36
+    },
+    {
+        "name": "Jesús Alejandro Guillen Luna",
+        "email": "221198@ids.upchiapas.edu.mx",
+        "matricula": "221198",
+        "Grado": "8B",
+        "C1": 26,
+        "C2": 35,
+        "C3": 53
+    },
+    {
+        "name": "Jesús David Ruiz Garcia",
+        "email": "221263@ids.upchiapas.edu.mx",
+        "matricula": "221263",
+        "Grado": "8B",
+        "C1": 23,
+        "C2": 12,
+        "C3": 61
+    },
+    {
+        "name": "Jesus Ignacio Velazquez Hernandez",
+        "email": "221225@ids.upchiapas.edu.mx",
+        "matricula": "221225",
+        "Grado": "8B",
+        "C1": 17,
+        "C2": 85,
+        "C3": 51
+    },
+    {
+        "name": "Joel De Jesús López Ruíz",
+        "email": "221204@ids.upchiapas.edu.mx",
+        "matricula": "221204",
+        "Grado": "8B",
+        "C1": 98,
+        "C2": 78,
+        "C3": 67
+    },
+    {
+        "name": "Jonathan Jair Pérez Mejía",
+        "email": "221215@ids.upchiapas.edu.mx",
+        "matricula": "221215",
+        "Grado": "8B",
+        "C1": 39,
+        "C2": 73,
+        "C3": 53
+    },
+    {
+        "name": "Jorge Alexis Arredondo Juárez",
+        "email": "221187@ids.upchiapas.edu.mx",
+        "matricula": "221187",
+        "Grado": "8B",
+        "C1": 45,
+        "C2": 22,
+        "C3": 45
+    },
+    {
+        "name": "Jorge Arturo Molina Gomez",
+        "email": "221251@ids.upchiapas.edu.mx",
+        "matricula": "221251",
+        "Grado": "8B",
+        "C1": 17,
+        "C2": 12,
+        "C3": 19
+    },
+    {
+        "name": "Jorge Brandon Chandomi Esponda",
+        "email": "213500@ids.upchiapas.edu.mx",
+        "matricula": "213500",
+        "Grado": "8B",
+        "C1": 94,
+        "C2": 92,
+        "C3": 46
+    },
+    {
+        "name": "José Ángel Nataren Ordoñez",
+        "email": "213367@ids.upchiapas.edu.mx",
+        "matricula": "213367",
+        "Grado": "8B",
+        "C1": 50,
+        "C2": 18,
+        "C3": 53
+    },
+    {
+        "name": "Jose Angel Ortega Merlin",
+        "email": "221255@ids.upchiapas.edu.mx",
+        "matricula": "221255",
+        "Grado": "8B",
+        "C1": 57,
+        "C2": 10,
+        "C3": 91
+    },
+    {
+        "name": "José Fernando Duran Villatoro",
+        "email": "221237@ids.upchiapas.edu.mx",
+        "matricula": "221237",
+        "Grado": "8B",
+        "C1": 83,
+        "C2": 70,
+        "C3": 44
+    },
+    {
+        "name": "Lorenzo Ramón Pérez Morales",
+        "email": "203427@ids.upchiapas.edu.mx",
+        "matricula": "203427",
+        "Grado": "8B",
+        "C1": 97,
+        "C2": 26,
+        "C3": 40
+    },
+    {
+        "name": "Luis Adrian Pozo Gomez",
+        "email": "221218@ids.upchiapas.edu.mx",
+        "matricula": "221218",
+        "Grado": "8B",
+        "C1": 91,
+        "C2": 45,
+        "C3": 60
+    },
+    {
+        "name": "Luis Alejandro Martinez Montoya",
+        "email": "213021@ids.upchiapas.edu.mx",
+        "matricula": "213021",
+        "Grado": "8B",
+        "C1": 85,
+        "C2": 85,
+        "C3": 92
+    },
+    {
+        "name": "Luis Antonio Ramirez Nucamendi",
+        "email": "221260@ids.upchiapas.edu.mx",
+        "matricula": "221260",
+        "Grado": "8B",
+        "C1": 45,
+        "C2": 61,
+        "C3": 74
+    },
+    {
+        "name": "Luis Humberto Escobar Gutierrez",
+        "email": "211134@ids.upchiapas.edu.mx",
+        "matricula": "211134",
+        "Grado": "8B",
+        "C1": 96,
+        "C2": 19,
+        "C3": 28
+    },
+    {
+        "name": "Luis Osvaldo Pérez Ángel",
+        "email": "221258@ids.upchiapas.edu.mx",
+        "matricula": "221258",
+        "Grado": "8B",
+        "C1": 62,
+        "C2": 13,
+        "C3": 12
+    },
+    {
+        "name": "Manuel Alejandro Peregrino Clemente",
+        "email": "221324@ids.upchiapas.edu.mx",
+        "matricula": "221324",
+        "Grado": "8B",
+        "C1": 91,
+        "C2": 51,
+        "C3": 66
+    },
+    {
+        "name": "Marco Darinel Ortiz Diaz",
+        "email": "221213@ids.upchiapas.edu.mx",
+        "matricula": "221213",
+        "Grado": "8B",
+        "C1": 91,
+        "C2": 80,
+        "C3": 63
+    },
+    {
+        "name": "Marcos Alejandro Shilon Gallegos",
+        "email": "203459@ids.upchiapas.edu.mx",
+        "matricula": "203459",
+        "Grado": "8B",
+        "C1": 13,
+        "C2": 29,
+        "C3": 95
+    },
+    {
+        "name": "María José Domínguez Costa",
+        "email": "213457@ids.upchiapas.edu.mx",
+        "matricula": "213457",
+        "Grado": "8B",
+        "C1": 18,
+        "C2": 89,
+        "C3": 67
+    },
+    {
+        "name": "Mario Ernesto Viloria Bonifaz",
+        "email": "211110@ids.upchiapas.edu.mx",
+        "matricula": "211110",
+        "Grado": "8B",
+        "C1": 54,
+        "C2": 67,
+        "C3": 82
+    },
+    {
+        "name": "Martin De Jesús Ochoa Espinosa",
+        "email": "221254@ids.upchiapas.edu.mx",
+        "matricula": "221254",
+        "Grado": "8B",
+        "C1": 26,
+        "C2": 84,
+        "C3": 22
+    },
+    {
+        "name": "Nancy Guadalupe Jimenez Escobar",
+        "email": "221201@ids.upchiapas.edu.mx",
+        "matricula": "221201",
+        "Grado": "8B",
+        "C1": 43,
+        "C2": 60,
+        "C3": 88
+    },
+    {
+        "name": "Noé Alejandro Rodríguez Moto",
+        "email": "221219@ids.upchiapas.edu.mx",
+        "matricula": "221219",
+        "Grado": "8B",
+        "C1": 78,
+        "C2": 41,
+        "C3": 61
+    },
+    {
+        "name": "Omar Ceja Sanchez",
+        "email": "203460@ids.upchiapas.edu.mx",
+        "matricula": "203460",
+        "Grado": "8B",
+        "C1": 40,
+        "C2": 69,
+        "C3": 40
+    },
+    {
+        "name": "Pedro Josafat Ruiz Robles",
+        "email": "213537@ids.upchiapas.edu.mx",
+        "matricula": "213537",
+        "Grado": "8B",
+        "C1": 78,
+        "C2": 28,
+        "C3": 99
+    },
+    {
+        "name": "Pedro Portillo Rodriguez",
+        "email": "221217@ids.upchiapas.edu.mx",
+        "matricula": "221217",
+        "Grado": "8B",
+        "C1": 10,
+        "C2": 67,
+        "C3": 47
+    },
+    {
+        "name": "Rodrigo Morales León",
+        "email": "203457@ids.upchiapas.edu.mx",
+        "matricula": "203457",
+        "Grado": "8B",
+        "C1": 37,
+        "C2": 40,
+        "C3": 32
+    },
+    {
+        "name": "Rogelio Emanuel Roque Morales",
+        "email": "213532@ids.upchiapas.edu.mx",
+        "matricula": "213532",
+        "Grado": "8B",
+        "C1": 45,
+        "C2": 73,
+        "C3": 74
+    },
+    {
+        "name": "Samuel Alberto Escobar Hernández",
+        "email": "221238@ids.upchiapas.edu.mx",
+        "matricula": "221238",
+        "Grado": "8B",
+        "C1": 98,
+        "C2": 25,
+        "C3": 46
+    },
+    {
+        "name": "Ulises Gálvez Miranda",
+        "email": "213691@ids.upchiapas.edu.mx",
+        "matricula": "213691",
+        "Grado": "8B",
+        "C1": 17,
+        "C2": 76,
+        "C3": 54
+    },
+    {
+        "name": "Veronica Velasco Jimenez",
+        "email": "221224@ids.upchiapas.edu.mx",
+        "matricula": "221224",
+        "Grado": "8B",
+        "C1": 23,
+        "C2": 76,
+        "C3": 75
+    },
+    {
+        "name": "Yahir Alberto Albores Madrigal",
+        "email": "221228@ids.upchiapas.edu.mx",
+        "matricula": "221228",
+        "Grado": "8B",
+        "C1": 67,
+        "C2": 21,
+        "C3": 88
+    },
+    {
+        "name": "Yahir Alexander Gutiérrez Martínez",
+        "email": "221200@ids.upchiapas.edu.mx",
+        "matricula": "221200",
+        "Grado": "8B",
+        "C1": 45,
+        "C2": 84,
+        "C3": 55
+    },
+    {
+        "name": "Yoshtin German Gutierrez Perez",
+        "email": "221246@ids.upchiapas.edu.mx",
+        "matricula": "221246",
+        "Grado": "8B",
+        "C1": 50,
+        "C2": 94,
+        "C3": 63
+    },
+    {
+        "name": "Yumari Teresa Morales Mendoza",
+        "email": "211225@ids.upchiapas.edu.mx",
+        "matricula": "211225",
+        "Grado": "8B",
+        "C1": 96,
+        "C2": 84,
+        "C3": 10
+    }
+]
