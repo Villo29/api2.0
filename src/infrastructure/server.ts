@@ -15,6 +15,9 @@ const dbName = process.env.DB_NAME;
 // Configurar CORS para permitir todos los orígenes
 app.use(cors());
 
+// Configurar CORS para permitir un origen específico
+app.use(cors({ origin: 'http://localhost:5173' }));
+
 // Configurar para parsear JSON
 app.use(express.json());
 
