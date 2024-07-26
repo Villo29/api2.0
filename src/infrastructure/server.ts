@@ -29,11 +29,11 @@ client
     );
     const studentController = new StudentController(studentRepository);
 
-    app.get("/students", (req, res) => studentController.getAll(req, res));
-    app.post("/students", (req, res) => studentController.add(req, res));
-
     app.use(cors());
     app.use(express.json());
+    
+    app.get("/students", (req, res) => studentController.getAll(req, res));
+    app.post("/students", (req, res) => studentController.add(req, res));
 
     app.listen(port, () => {
       console.log(`API running at ${port}`);
