@@ -11,7 +11,7 @@ const app: Application = express();
 const port = process.env.PORT || 2929;
 const mongoUri = process.env.MONGO_URI;
 const dbName = process.env.DB_NAME;
-
+app.use(express.urlencoded({ extended: true }));
 if (!mongoUri || !dbName) {
   console.error("Missing MongoDB credentials");
   process.exit(1);
